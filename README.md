@@ -8,7 +8,6 @@
 - <meta name="viewport" content="width=device-width, initial-scale=1.0"> - Makes the webpage responsive on different devices.
 - <title>www.g7.com</title> - Sets the browser tab title as "www.g7.com."
 - <body> Section - Contains all the visible content on the page.
-- <h1> Displays a large heading saying "Hello, Welcome To My Portfolio."
 - <br> Adds a line break before introducing the author.
 - Plain text Introduces the author, "My name is Gagan Bharat Dhanapune. I am pursuing a BE in IT and currently in my 3rd year."
 - <p> tags - Add two paragraphs. The first mentions the author's interest in Web Development and Data Analytics. The second expresses enthusiasm for learning new technologies, joining hackathons, and working on projects.
